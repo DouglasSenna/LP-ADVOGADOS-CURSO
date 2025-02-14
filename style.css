@@ -55,6 +55,7 @@ nav ul {
   display: flex;
   justify-content: center;
   position: relative;
+  border-bottom: solid 20px #b68954;
 }
 
 .container-section-banner::before {
